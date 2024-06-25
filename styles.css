@@ -1,0 +1,93 @@
+body {
+    background-color: #003300;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(https://instructure-uploads-apse1.s3-ap-southeast-1.amazonaws.com/account_98220000000000001/attachments/2/bg2.jpg?AWSAccessKeyId=AKIAIDDUVOH2KGZFBNAQ&Expires=1949782073&Signature=M3%2F62xgXrP0XPaLngXD1nidfIYM%3D&response-cache-control=Cache-Control%3Amax-age%3D473364000.0%2C%20public&response-expires=473364000.0);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.logo {
+    position: relative;
+    right: 25%;
+    display: block;
+    margin: 0 auto 1rem;
+    width: 200px;
+}
+.form-control {
+    background-color: #ffffff;
+}
+.btn-primary:hover {
+    background-color: #004d00;
+    border-color: #004d00;
+}
+.form-check-input:checked {
+    background-color: #006400;
+    border-color: #006400;
+}
+.form-group {
+    max-width: 85%;
+    margin: 0 auto;
+}
+.form-label {
+    position: relative;
+    right: 40%;
+}
+.browsecourse {
+    position: absolute;
+    left: 54%;
+    bottom: 70%;
+    color: white;
+}
+.form-check-label {
+    position: relative;
+    left: 2%;
+}
+.Forgot {
+    position: relative;
+    right: 30%;
+    color: white;
+}
+.line {
+    border-bottom: 1px solid white;
+    margin: 10px 0;
+}
+.btn-block {
+    width: 100%;
+    font-size: 14px;
+}
+.btn-lg {
+    height: 40px;
+}
+.login-group {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn-login {
+    font-size: 14px;
+    padding: 5px 45px;
+}
+.small-logo {
+    display: block;
+    margin: 10px auto;
+    width: 30px;
+    border-radius: 5px;
+}
+.Microsoft {
+    position: absolute;
+    right: 46%;
+    top: 73%;
+    color: white;
+    text-decoration: none;
+}
+.Microsoft:hover {
+    text-decoration: none;
+}
+.microsoft-logo {
+    position: relative;
+    right: 20%;
+}
